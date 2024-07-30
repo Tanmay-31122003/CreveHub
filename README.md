@@ -8,4 +8,9 @@ The Team Member :
 3. Nishigandha Shende
 4. Tanmay Bagal
 
-We develop the Food ordering website in MERN stack
+We develop the Food ordering website in MERN stack 
+
+M stand for MongoDB
+E stands for Express
+R stands for React
+N stand for node
