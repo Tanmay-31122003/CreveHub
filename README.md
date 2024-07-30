@@ -1,3 +1,9 @@
 # CreveHub
 CraveHub : Food Ordering website for Cloud Kitchen
 Add the angular project
+
+The Team Member :
+1. Gaurav Sandhan
+2. Neha Jawale
+3. Nishigandha Shende
+4. Tanmay Bagal
