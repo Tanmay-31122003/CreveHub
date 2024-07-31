@@ -20,8 +20,3 @@ that can be selected by sasa
 w
 
 welcome to our last year's project of snjb.
-
-
-
-hi 
-wwe
