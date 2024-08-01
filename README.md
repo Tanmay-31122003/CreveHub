@@ -22,3 +22,4 @@ w
 welcome to our last year's project of snjb.
 
 neha is good girl
+nishi is very good girl & neha is alshi
